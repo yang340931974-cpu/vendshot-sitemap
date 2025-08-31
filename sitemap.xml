@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- 首页 -->
+  <url>
+    <loc>https://www.vendshot.com/</loc>
+    <lastmod>2025-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 关于我们 -->
+  <url>
+    <loc>https://www.vendshot.com/about</loc>
+    <lastmod>2025-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 业务介绍（采购代理） -->
+  <url>
+    <loc>https://www.vendshot.com/sourcing</loc>
+    <lastmod>2025-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 产品拍摄与设计 -->
+  <url>
+    <loc>https://www.vendshot.com/design</loc>
+    <lastmod>2025-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 案例展示 -->
+  <url>
+    <loc>https://www.vendshot.com/cases</loc>
+    <lastmod>2025-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 联系我们 -->
+  <url>
+    <loc>https://www.vendshot.com/contact</loc>
+    <lastmod>2025-08-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
